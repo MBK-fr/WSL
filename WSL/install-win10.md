@@ -45,6 +45,7 @@ To download and install your preferred distro(s), you have three choices:
     * [SLES](https://www.microsoft.com/store/apps/9p32mwbh6cns)
     * [Kali Linux](https://www.microsoft.com/store/apps/9PKR34TNCV07)
     * [Debian GNU/Linux](https://www.microsoft.com/store/apps/9MSVKQC78PK6)
+    * [Dark Moon](https://www.microsoft.com/fr-fr/p/dark-moon/9n103k00848b?rtc=1&activetab=pivot:overviewtab)
 
 1. From the distro's page, select "Get"
 
